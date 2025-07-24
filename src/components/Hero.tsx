@@ -92,7 +92,7 @@ const Hero = () => {
               </div>
               <div className="w-80 h-80 rounded-full overflow-hidden neon-glow animate-pulse-slow relative">
                 <img
-                  src="/src/assets/my.jpeg.jpeg"
+                  src="/src/assets/mohit.jpg"
                   alt="Mohit Uchaniya"
                   className="w-full h-full object-cover relative z-10"
                 />
